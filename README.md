@@ -1,1 +1,1 @@
-# Allzheimer-Disease-Classification
+# Allzheimer Disease 4 Stage Classification
