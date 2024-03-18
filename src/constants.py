@@ -1,0 +1,11 @@
+EXPERIMENT_NAME = "alzheimer_disease_4_state_classification"
+SEED = 1
+INPUT_SIZE = (224, 224)
+DATASET_PATH = "./dataset"
+SPLIT_SIZE = 0.7
+BATCH_SIZE = 8
+NUM_CLASSES = 4
+DEVICE = "cpu"
+LEARNING_RATE = 0.001
+NUM_EPOCHS = 2
+NUM_CHANNELS = 3
